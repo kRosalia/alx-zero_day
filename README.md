@@ -1,1 +1,1 @@
-My first readme
+Github Project Introductory training by ALX
